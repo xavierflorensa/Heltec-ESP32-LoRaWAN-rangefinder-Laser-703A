@@ -14,4 +14,4 @@ Fourth Step is to use deep sleep to save battery
 
 Fifth step is to swith down laser power supply on sleep mode
 
-Sith Step is to provide Solar pannel to charge the battery
+Sixth Step is to provide Solar pannel to charge the battery
